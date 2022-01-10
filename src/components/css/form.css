@@ -1,0 +1,18 @@
+.form-group .form-control {
+  margin: 1em 0;
+}
+
+.login-form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.login-form .form-group {
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 50vh + max-content;
+  border-radius: 1em;
+  padding: 2em;
+}
